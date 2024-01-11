@@ -103,6 +103,7 @@ section{
     animation: slideTop .7s ease forwards;
     opacity: 0;
     animation-delay:.7s;
+ margin-left: 17px;
 }
 @keyframes slideTop{
     0%{
@@ -117,6 +118,7 @@ section{
     font-size: 5.6rem;
     font-weight: 700;
     margin: -3px 0;
+ margin-left: 17px;
     opacity: 1;
     animation: slideLeft 1s ease forwards;
     opacity: 0;
@@ -127,6 +129,7 @@ section{
     font-size: 2rem;
     font-weight: 700;
     margin: -3px 0;
+ margin-left: 17px;
     opacity: 1;
     animation: slideLeft 1s ease forwards;
     opacity: 0;
@@ -147,6 +150,7 @@ section{
     height: 4rem;
     border-radius: 50%;
     color: #ef6e12;
+ margin-left: 17px;
     font-size: 2rem;
     border: 2px solid #ef6e12;
     background: transparent;

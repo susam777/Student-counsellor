@@ -167,7 +167,7 @@ section{
     box-shadow: 0 0 20px #ef6e12;
 }
 .social-media {
-    margin-left: 22px;
+    margin-left: 30px;
 }
 .home-detail h3:nth-of-type(2){
     margin-bottom: 2rem;
@@ -176,7 +176,7 @@ span{
     color: #ef6e12;
 }
 .btn{
- margin-left: 22px;
+ margin-left: 30px;
     display: inline-block;
     font-size: 1.6rem;
     padding: 1rem 2.8rem;
